@@ -1,8 +1,8 @@
 ## 📘 Digital Literacy Project  
   
 ## 👨‍🎓 Student Details  
-Name: **Abhishek Singh** 
-REG NO. : 25BAI11071
+Name: **Abhishek Singh**  
+REG NO. : 25BAI11071  
 Course: B.Tech (CSE AIML)  
 University: VIT Bhopal University  
 Course Code: CSE0001 – Digital Literacy  
@@ -25,21 +25,23 @@ digital-literacy-project/
 │   └── Project_Report.pdf  
 │  
 ├── task-1-presentation/  
-│   └── infographic.png  
+│   └── infographic.jpg  
 │  
 ├── task-2-portfolio/  
-│   ├── GitHub.png  
-│   ├── LinkedIn.jpg  
-│   └── Kaggle.png  
+│   ├── github_ss.png  
+│   ├── kaggle_ss.png  
+│   └── linkedin_ss.png  
 │  
 ├── task-3-platforms/  
-│   ├── Google form and Responses Link.md  
-│   ├── google-form.png  
-│   └── Hackerranker.png  
+│   ├── google_form_quiz_ss_01.png  
+│   ├── google_form_quiz_ss_02.png  
+|   ├── google_form_response_ss.png  
+|   ├── hackerrank_ss1.png  
+│   └── hackerrank_ss2.png  
 │  
 ├── task-4-email-etiquette/  
-│   ├── email1.pdf  
-│   ├── email2.pdf  
+│   ├── email_1.pdf  
+│   ├── email_2.pdf  
 │   └── social-media-checklist.md  
 │  
 ├── task-5-cybercrime/  
@@ -51,32 +53,32 @@ digital-literacy-project/
 **🟢 Task 1: Digital Literacy Infographic**  
 Created a visual infographic using Canva  
 Covered topics like:  
-Digital Literacy basics  
-Online safety  
+Digital Literacy definition  
 Useful tools for students  
+Online safety   
 Exported and added to repository  
 
 **🟢 Task 2: Student Digital Portfolio**
 Created/updated profiles on:  
 
-GitHub  
-LinkedIn  
-Kaggle  
+* GitHub  
+* LinkedIn  
+* Kaggle  
 ✔ Added screenshots of all profiles  
 ✔ Built a professional digital presence  
 
 **🟢 Task 3: Platforms Exploration**  
-Part A – Coding Platform  
+* Part A – Coding Platform  
 
 Completed a beginner challenge on:  
-HackerRank / CodeChef / HackerEarth  
-Part B – Google Workspace  
+HackerRank   
+* Part B – Google Workspace  
 
 Created a Digital Literacy Quiz (Google Form)  
 Included:   
 Multiple choice questions  
 Short answer question  
-🔗 Google Form Link: [https://docs.google.com/forms/d/e/1FAIpQLSejdNMVxf20croBKVxvIdb_tUBtp3wtuLprxaUU0ihbwgGaNg/viewform?usp=dialog](https://docs.google.com/forms/d/e/1FAIpQLSdryuvN9fiCPDWCWhn6kiSZeA6pTJUcT2ewv07i5iHD0TPcFQ/viewform?usp=dialog)
+🔗 Google Form Link: [https://docs.google.com/forms/d/e/1FAIpQLSf82pH5q5lVlln8ZNSDQwB3voxjSOWJopNBD9Abwp_PgH3F3Q/viewform?usp=header](https://docs.google.com/forms/d/e/1FAIpQLSf82pH5q5lVlln8ZNSDQwB3voxjSOWJopNBD9Abwp_PgH3F3Q/viewform?usp=header)
 
 **🟢 Task 4: Email Etiquette**  
 Wrote two professional emails:  
