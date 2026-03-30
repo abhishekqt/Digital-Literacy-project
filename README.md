@@ -26,19 +26,22 @@ digital-literacy-project/
 │  
 ├── task-1-presentation/  
 │   └── infographic.jpg  
-│  
+│   └── Description.md
+|
 ├── task-2-portfolio/  
 │   ├── github_ss.png  
 │   ├── kaggle_ss.png  
-│   └── linkedin_ss.png  
-│  
+│   ├── linkedin_ss.png  
+│   └── reflection_note.md
+|
 ├── task-3-platforms/  
 │   ├── google_form_quiz_ss_01.png  
 │   ├── google_form_quiz_ss_02.png  
 |   ├── google_form_response_ss.png  
 |   ├── hackerrank_ss1.png  
-│   └── hackerrank_ss2.png  
-│  
+│   ├──hackerrank_ss2.png  
+│   └── notes.md
+|
 ├── task-4-email-etiquette/  
 │   ├── email_1.pdf  
 │   ├── email_2.pdf  
